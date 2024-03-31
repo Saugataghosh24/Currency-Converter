@@ -8,7 +8,7 @@ You can access the website [here](https://saugataghosh24.github.io/Currency-Conv
 
 ## Screenshots
 
-![Screenshot](https://github.com/Saugataghosh24/Currency-Converter/assets/135034312/4d6ad8b6-ff6b-4030-b427-b1a809365484)
+![Screenshot](https://github.com/Saugataghosh24/Currency-Converter/assets/135034312/0b1028b0-30d3-4b3a-bfe1-c262e566dff0)
 
 ## Features
 
