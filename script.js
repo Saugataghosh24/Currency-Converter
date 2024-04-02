@@ -61,3 +61,21 @@ window.addEventListener("load", ()=> {
 });
 
 
+// Exchange Button Implementation
+let symbol= document.querySelector("#exchange");
+let leftCode= document.querySelector("#from");
+let rightCode= document.querySelector("#to");
+
+let leftFlag= document.querySelector(".from img");
+let rightFlag= document.querySelector(".to img");
+
+symbol.addEventListener("click", ()=>{
+    let exchangeCode= leftCode.value;
+    leftCode.value= rightCode.value;
+    rightCode.value= exchangeCode;
+
+    let exchangeFlag= leftFlag.src;
+    leftFlag.src= rightFlag.src;
+    rightFlag.src= exchangeFlag;
+})
+
